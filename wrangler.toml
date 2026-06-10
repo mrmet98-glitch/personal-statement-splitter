@@ -1,0 +1,8 @@
+name = "personal-statement-splitter"
+compatibility_date = "2026-06-01"
+pages_build_output_dir = "dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "personal_statement_splitter"
+database_id = "797bfa98-6634-4a5c-adca-d7b55ded63d7"
